@@ -36,7 +36,7 @@ The project replicates the provided **Figma design** for the *VFilms* homepage a
 
 # ⚙️ Getting Started
 1️⃣ Clone the Repository  
-git clone https://github.com/<Shivam-178>/Vfilms.git  
+git clone https://github.com/Shivam-178/Vfilms.git  
 cd Vfilms  
 
 2️⃣ Install Dependencies  
