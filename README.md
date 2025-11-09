@@ -33,7 +33,30 @@ The project replicates the provided **Figma design** for the *VFilms* homepage a
 
 
 ---
+# 🧪 API Example
+**Request:**
+```json
+{
+  "name": "Test User",
+  "email": "testuser@gmail.com",
+  "phone": "9876543210",
+  "message": "This is a message"
+}
+```
+**Expected Response:**
+```json
+{
+  "id": 49,
+  "name": "Test User",
+  "email": "testuser@gmail.com",
+  "phone": "9876543210",
+  "message": "This is a message",
+  "created_at": "2025-10-10T05:27:59.371578Z",
+  "updated_at": "2025-10-10T05:27:59.371598Z"
+}
+```
 
+---
 # ⚙️ Getting Started
 1️⃣ Clone the Repository  
 git clone https://github.com/Shivam-178/Vfilms.git  
@@ -65,3 +88,10 @@ Vfilms/
 ├── package.json  
 ├── vite.config.js  
 └── tailwind.config.js
+
+## 👨‍🎓 Submitted By
+- Name: Shivam Sharma
+- Course: B.Tech CSE 
+- Project: EZ Labs Frontend Assignment
+- Date: November 2025
+
